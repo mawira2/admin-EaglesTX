@@ -1,0 +1,30 @@
+
+Regular github commands:
+
+* mkdir - creating a directory
+* git init - initializing a remote directory as a github repo
+* git add . -add - files to the staging area
+* git commit -m - used to commit changes on a file
+* git show - used to display recently implemented changes
+* ''  clone - used to get changes made in a website
+* git pull - pulls the content of a git hu repo
+* git push - used to push changes fro remote repository to github
+* git branch - used to create a branch from main brach
+* git globaluser.name"" - used to create a remote user name
+* git globaluse.email "" - used to create user email
+* git globalcolour "auto". -sets virtual screen color to auto
+* touch - creating a new file
+* vi "file name" - used in wtiring to a file
+* cat "file name" - used to display file content
+* clear - rubs the content of the terminal (cleans the terminal)
+* git diff - used to show the newly implented changes to a file compared to the previous file.
+* ls - lists content of the current directory
+* pwd - print the current working directory
+* cd .. - shifting from one directory to the previous dir.
+* cd ../.. - shifting 2x backwards
+* cd "dir name" - shifting from one directory to another.
+* git status - showing the current status of files in a repository.
+* wq - saving
+* i - insert
+* git remove - deleting a repo
+
